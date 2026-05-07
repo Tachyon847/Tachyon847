@@ -1,16 +1,21 @@
-## Hi there 👋
+# Claire West
 
-<!--
-**Tachyon847/Tachyon847** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering student with leadership and operations experience and growing expertise in front-end web development.
 
-Here are some ideas to get you started:
+## Technical Skills
+- HTML5
+- CSS3
+- Basic JavaScript
+- Git/GitHub
+- Responsive Web Design
+- Web UI Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Project
+### At Home Pet Care Website
+- Responsive front-end website project
+- Built with HTML, CSS, and JavaScript
+- Built in VSCode
+- Deployed using GitHub Pages
+
+Live Site:
+https://tachyon847.github.io/at-home-pet-care/
