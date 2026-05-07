@@ -22,4 +22,4 @@ Live Site:
 https://tachyon847.github.io/at-home-pet-care/
 
 Repository:
-github.com/Tachyon847/at-home-pet-care
+[github.com/Tachyon847/at-home-pet-care](https://github.com/Tachyon847/at-home-pet-care)
