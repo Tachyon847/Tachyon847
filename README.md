@@ -15,8 +15,11 @@ Engineering student with leadership and operations experience and growing expert
 - Responsive front-end website project
 - Built with HTML, CSS, and JavaScript
 - Implemented responsive layouts and modern web UI practices
-- Cross-platform and device compatible
+- Designed for cross-platform and mobile compatibility
 - Deployed using GitHub Pages
 
 Live Site:
 https://tachyon847.github.io/at-home-pet-care/
+
+Repository:
+github.com/Tachyon847/at-home-pet-care
