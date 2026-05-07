@@ -14,7 +14,8 @@ Engineering student with leadership and operations experience and growing expert
 ### At Home Pet Care Website
 - Responsive front-end website project
 - Built with HTML, CSS, and JavaScript
-- Built in VSCode
+- Implemented responsive layouts and modern web UI practices
+- Cross-platform and device compatible
 - Deployed using GitHub Pages
 
 Live Site:
